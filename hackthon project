@@ -1,0 +1,6 @@
+mkdir CertificationManagement
+cd CertificationManagement
+mkdir src data
+touch src/CertificationManager.java
+touch data/certifications.txt
+touch README.md
